@@ -2,11 +2,6 @@
 
 This guide provides a solution for installing HP LaserJet P1102 drivers on macOS Tahoe (26.0.1+). The official HP drivers refuse to install on newer macOS versions due to a version check in the installer. With a simple modification to bypass that check, you can get your printer working again on Tahoe.
 
-This is a modified Version for MacOs Tahoe originally was made for macOS Sequoia check repo here: https://gist.github.com/pavelbinar/e14bb47f98768d83828bdee89a47490e#file-install-driver-sh 
-made by : pavelbinar  https://gist.github.com/pavelbinar 
-
-Anyways There you have it for Tahoe.
-
 ## Supported Printer Models
 
 * HP LaserJet P1102
