@@ -15,7 +15,7 @@ Anyways There you have it for Tahoe.
 
 ## Manual Installation Steps
 
-1. Download the official [HP Mac Printer Driver](https://support.hp.com) (e.g. from the HP driver .dmg).
+1. Download the official [HP Mac Printer Driver]([https://support.hp.com](https://support.hp.com/us-en/drivers/hp-laserjet-pro-p1102-printer-series/model/4110303?sku=CE651A)) (e.g. from the HP driver .dmg).
 2. Extract the `HewlettPackardPrinterDrivers.pkg` file from the `HewlettPackardPrinterDrivers.dmg` file.
 3. From a terminal, go to the folder where you extracted the `.pkg` file and run:
    ```
